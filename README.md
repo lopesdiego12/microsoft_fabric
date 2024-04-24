@@ -62,7 +62,7 @@ https://microsoftlearning.github.io/mslearn-fabric/
 Scott Guthrie and other leaders will share how the Microsoft Cloud is uniquely positioned to help our customers transform by building AI solutions and unlocking data insights using the same platform and services that power all of Microsoft’s comprehensive solutions.
 
 𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀:
- * Ali Ghodsi
+ * Ali Ghodsi (CEO of Databricks)
  * Eric Boyd
  * Erin Chapple
  * Sarah Bird
@@ -70,6 +70,7 @@ Scott Guthrie and other leaders will share how the Microsoft Cloud is uniquely p
  * Scott Guthrie
  * Charles Lamanna
  * Arun Ulagaratchagan
+
 [Video](https://youtu.be/zd47qedKkRY)
 
 
