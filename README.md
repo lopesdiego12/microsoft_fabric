@@ -86,3 +86,11 @@ Demo of Microsoft Fabric, a new data and analytics solution built from the groun
 Speaker: Arun Ulagaratchagan
 
 [Microsoft Fabric Demo – Microsoft Ignite 2023](https://www.youtube.com/watch?v=fwYuzNE2wTo)
+
+
+## Event day
+
+<img width="516" alt="Screenshot 2024-04-24 at 22 40 14" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/154910fa-5a2b-4ea8-8be7-7a63f4c0d478">
+<img width="605" alt="Screenshot 2024-04-24 at 22 40 23" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/3dac10b6-15ca-48dd-874a-004295813166">
+<img width="917" alt="Screenshot 2024-04-24 at 22 40 41" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/645ca6e4-5199-4dd4-bf26-68c7857d7340">
+
