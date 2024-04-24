@@ -1,5 +1,15 @@
 # 🌐 Microsoft Fabric
 
+Microsoft Fabric is an all-in-one analytics solution for enterprises that covers everything from data movement to data science, Real-Time Analytics, and business intelligence. It offers a comprehensive suite of services, including data lake, data engineering, and data integration, all in one place.
+
+With Fabric, you don't need to piece together different services from multiple vendors. Instead, you can enjoy a highly integrated, end-to-end, and easy-to-use product that is designed to simplify your analytics needs.
+
+The platform is built on a foundation of Software as a Service (SaaS), which takes simplicity and integration to a whole new level.
+
+<img width="1021" alt="Screenshot 2024-04-24 at 23 20 02" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/62cdfbd2-d478-413f-b3d9-21e326a1b694">
+<img width="992" alt="Screenshot 2024-04-24 at 23 20 35" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/45d7d97c-a82d-4a3a-b5f9-88c79f25a021">
+
+
 ## 📊 Presentations
 1. 🔗 [Presentation 1](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April.PDF)
 2. 🔗 [Presentation 2](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April%20Event.PDF)
