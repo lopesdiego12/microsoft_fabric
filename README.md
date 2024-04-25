@@ -52,7 +52,7 @@ The platform is built on a foundation of Software as a Service (SaaS), which tak
 
 
 ## Fabric Carrer Hub
-[Microsoft Roles Guidance -  Fabric Career Hub](https://aka.ms/FabricCareerHub)
+🔗 [Microsoft Roles Guidance -  Fabric Career Hub](https://aka.ms/FabricCareerHub)
 
 
 ## 📚 General Features
@@ -66,14 +66,14 @@ The platform is built on a foundation of Software as a Service (SaaS), which tak
 ### ## 🤖 Real-World AI Applications built with Microsoft Fabric
 
 - 🔗 [How to use end-to-end AI samples in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-science/use-ai-samples)
-* [Analyzing Snapshot Serengeti data with Microsoft Fabric](https://aka.ms/fabric-e2e-serengeti/)
-* [Tracking International Space Station with Microsoft Fabric](https://github.com/anshulsharmas/fabric-iss-demo)
+- 🔗  [Analyzing Snapshot Serengeti data with Microsoft Fabric](https://aka.ms/fabric-e2e-serengeti/)
+- 🔗  [Tracking International Space Station with Microsoft Fabric](https://github.com/anshulsharmas/fabric-iss-demo)
 
 ### Microsoft Fabric + Azure OpenAI
 
-* [Azure OpenAI for big data](https://learn.microsoft.com/en-us/fabric/data-science/open-ai)
-* [Use Azure OpenAI in Fabric with REST API](https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-via-rest-api)
-* [Use Azure OpenAI in Fabric with Python SDK and Synapse ML](https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-sdk-synapse?tabs=python)
+- 🔗 [Azure OpenAI for big data](https://learn.microsoft.com/en-us/fabric/data-science/open-ai)
+- 🔗  [Use Azure OpenAI in Fabric with REST API](https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-via-rest-api)
+- 🔗  [Use Azure OpenAI in Fabric with Python SDK and Synapse ML](https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-sdk-synapse?tabs=python)
 
 ### 🤖 Copilot for Microsoft Fabric
 
