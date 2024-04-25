@@ -10,6 +10,19 @@ The platform is built on a foundation of Software as a Service (SaaS), which tak
 
 <img width="1021" alt="Screenshot 2024-04-24 at 23 20 02" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/62cdfbd2-d478-413f-b3d9-21e326a1b694">
 
+
+
+
+## Event day
+
+<img width="300" alt="Screenshot 2024-04-24 at 22 40 14" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/154910fa-5a2b-4ea8-8be7-7a63f4c0d478">
+<img width="300" alt="Screenshot 2024-04-24 at 22 40 23" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/3dac10b6-15ca-48dd-874a-004295813166">
+<img width="300" alt="Screenshot 2024-04-24 at 22 40 41" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/645ca6e4-5199-4dd4-bf26-68c7857d7340">
+
+## 📊 Presentations
+1. 🔗 [Presentation 1](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April.PDF)
+2. 🔗 [Presentation 2](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April%20Event.PDF)
+
 ## Microsoft Fabric Trainning
 
 [Ep1: Get started with end-to-end analytics and lakehouses on Microsoft Fabric](https://www.youtube.com/watch?v=teJ74q92Ag8)
@@ -26,11 +39,6 @@ The platform is built on a foundation of Software as a Service (SaaS), which tak
 
 ## Fabric Carrer Hub
 [Microsoft Roles Guidance -  Fabric Career Hub](https://aka.ms/FabricCareerHub)
-
-
-## 📊 Presentations
-1. 🔗 [Presentation 1](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April.PDF)
-2. 🔗 [Presentation 2](https://github.com/lopesdiego12/microsoft_fabric/blob/b7510698f816b086f51a200500e090631064d7d8/Docs/Microsoft%20Fabric%202024%20April%20Event.PDF)
 
 
 ## 📚 General Features
@@ -91,7 +99,6 @@ Scott Guthrie and other leaders will share how the Microsoft Cloud is uniquely p
 
 - 🔗 [Video](https://youtu.be/zd47qedKkRY)
 
-
 ## 📚 Overview
 At Microsoft Build, Satya Nadella introduced Microsoft Fabric, a data analytics platform for the era of AI.
 
@@ -104,11 +111,3 @@ Demo of Microsoft Fabric, a new data and analytics solution built from the groun
 Speaker: Arun Ulagaratchagan
 
 [Microsoft Fabric Demo – Microsoft Ignite 2023](https://www.youtube.com/watch?v=fwYuzNE2wTo)
-
-
-## Event day
-
-<img width="300" alt="Screenshot 2024-04-24 at 22 40 14" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/154910fa-5a2b-4ea8-8be7-7a63f4c0d478">
-<img width="300" alt="Screenshot 2024-04-24 at 22 40 23" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/3dac10b6-15ca-48dd-874a-004295813166">
-<img width="300" alt="Screenshot 2024-04-24 at 22 40 41" src="https://github.com/lopesdiego12/microsoft_fabric/assets/26819345/645ca6e4-5199-4dd4-bf26-68c7857d7340">
-
