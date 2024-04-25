@@ -1,7 +1,9 @@
 # 🌐 Microsoft Fabric
 
-## "Satya Nadella, CEO and Chairman of Microsoft, said at Microsoft Build 2023, Fabric is “perhaps the biggest launch of a data product from Microsoft since the launch of SQL Server.”
-[Link](https://www.microsoft.com/en-us/microsoft-fabric/blog/2023/11/15/prepare-your-data-for-ai-innovation-with-microsoft-fabric-now-generally-available/)
+## "Satya Nadella, CEO and Chairman of Microsoft, said at Microsoft Build 2023, Fabric is “perhaps the biggest launch of a data product from Microsoft since the launch of SQL Server.” [Source](https://www.microsoft.com/en-us/microsoft-fabric/blog/2023/11/15/prepare-your-data-for-ai-innovation-with-microsoft-fabric-now-generally-available/)
+
+
+____________________________________________________________________________________________________________________________________________
 
 
 Microsoft Fabric is an all-in-one analytics solution for enterprises that covers everything from data movement to data science, Real-Time Analytics, and business intelligence. It offers a comprehensive suite of services, including data lake, data engineering, and data integration, all in one place.
