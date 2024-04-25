@@ -25,16 +25,30 @@ The platform is built on a foundation of Software as a Service (SaaS), which tak
 
 ## Microsoft Fabric Trainning
 
-[Ep1: Get started with end-to-end analytics and lakehouses on Microsoft Fabric](https://www.youtube.com/watch?v=teJ74q92Ag8)
-[Ep2: Use Apache Spark on Microsoft Fabric](https://www.youtube.com/watch?v=BejPbIMYWko)
-[Ep3: Work with Delta Lake Tables in Microsoft Fabric](https://www.youtube.com/watch?v=-8E0JT9KtY0)
-[Ep4: Use pipelines do Data Factory no Microsoft Fabric](https://www.youtube.com/watch?v=LoESCJpru8w)
-[Ep5: Ingest data with Dataflows Gen2 in Microsoft Fabric](https://www.youtube.com/watch?v=-XCnEimTjG4)
-[Ep6: Get started with data warehouses on Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep106-get-started-with-data-warehouses-in-microsoft-fabric?WT.mc_id=academic-116607-lbugnion)
-[Ep7: Design a Fabric Lake House Using the Medallion Architecture Blueprint](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep107-organize-a-fabric-lakehouse-using-medallion-architecture-design?WT.mc_id=academic-116608-lbugnion)
-[Ep8: Ingest data with Spark notebooks and Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep108-ingest-data-with-spark-and-microsoft-fabric-notebooks?WT.mc_id=academic-116609-lbugnion)
-[Ep9: Administer Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep109-administer-microsoft-fabric?WT.mc_id=academic-116610-lbugnion)
-[Exam Cram: How to Pass Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric ](https://learn.microsoft.com/pt-br/shows/learn-live/exam-cram-for-dp-600-ep101-how-to-pass-exam-dp-600-implementing-analytics-solutions-using-microsoft-fabric-beta-pacific?WT.mc_id=academic-116720-lbugnion)
+
+## Microsoft Fabric 
+
+🔗 [Ep1: Get started with end-to-end analytics and lakehouses on Microsoft Fabric](https://www.youtube.com/watch?v=teJ74q92Ag8)
+
+🔗 [Ep2: Use Apache Spark on Microsoft Fabric](https://www.youtube.com/watch?v=BejPbIMYWko)
+
+🔗 [Ep3: Work with Delta Lake Tables in Microsoft Fabric](https://www.youtube.com/watch?v=-8E0JT9KtY0)
+
+🔗 [Ep4: Use pipelines do Data Factory no Microsoft Fabric](https://www.youtube.com/watch?v=LoESCJpru8w)
+
+🔗 [Ep5: Ingest data with Dataflows Gen2 in Microsoft Fabric](https://www.youtube.com/watch?v=-XCnEimTjG4)
+
+🔗 [Ep6: Get started with data warehouses on Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep106-get-started-with-data-warehouses-in-microsoft-fabric?WT.mc_id=academic-116607-lbugnion)
+
+🔗 [Ep7: Design a Fabric Lake House Using the Medallion Architecture Blueprint](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep107-organize-a-fabric-lakehouse-using-medallion-architecture-design?WT.mc_id=academic-116608-lbugnion)
+
+🔗 [Ep8: Ingest data with Spark notebooks and Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep108-ingest-data-with-spark-and-microsoft-fabric-notebooks?WT.mc_id=academic-116609-lbugnion)
+
+🔗 [Ep9: Administer Microsoft Fabric](https://learn.microsoft.com/pt-br/shows/learn-live/learn-together-microsoft-fabric-wave-1-ep109-administer-microsoft-fabric?WT.mc_id=academic-116610-lbugnion)
+
+🔗 [Exam Cram: How to Pass Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric ](https://learn.microsoft.com/pt-br/shows/learn-live/exam-cram-for-dp-600-ep101-how-to-pass-exam-dp-600-implementing-analytics-solutions-using-microsoft-fabric-beta-pacific?WT.mc_id=academic-116720-lbugnion)
+
+
 
 
 ## Fabric Carrer Hub
